@@ -14,8 +14,8 @@
     {
       "configVersion": 2,
       "address": "35.185.145.210",
-      "port": 2233,
-      "id": "69d9cf2d-cc02-4e6d-9045-5d1adb295f8f",
+      "port": 5000,
+      "id": "a802242d-23be-4309-9f6f-4d5b1cc68407",
       "alterId": 233,
       "security": "auto",
       "network": "tcp",
@@ -46,7 +46,7 @@
     "writeBufferSize": 2
   },
   "sysAgentEnabled": true,
-  "listenerType": 1,
+  "listenerType": 2,
   "urlGFWList": "",
   "allowLANConn": false,
   "remoteDNS": "",
